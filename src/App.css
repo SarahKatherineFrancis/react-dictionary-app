@@ -9,11 +9,9 @@ body {
   border-radius: 5px;
 }
 
-.App-logo {
-  max-width: 200px;
-  display: block;
-  margin: 0 auto;
-  border-radius: 10px;
+header {
+  font-family: "Rubik Wet Paint", cursive;
+  text-align: center;
 }
 
 footer {
